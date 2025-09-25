@@ -1,3 +1,7 @@
+// Author: YUANDONG YANG
+// File: item-list.js
+// Description: Render a shopping list using the Item component.
+
 import Item from './item.js';
 
 export default function ItemList() {
